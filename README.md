@@ -11,21 +11,7 @@ This document contains the following details:
 ### Description of the Topology
 This repository includes code defining the infrastructure below. 
 
-![](Azure_Resource_Group_Project.png)
-# Automated ELK Stack Deployment
-
-This document contains the following details:
-- Description of the Topology
-- ELK Configuration
-  - Beats in Use
-  - Machines Being Monitored
-- How to Use the Ansible Build
-- Access Policies
-
-### Description of the Topology
-This repository includes code defining the infrastructure below. 
-
-![](Images/Solved.png)
+![](Azure Resource_Group_Project.png)
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the "D*mn Vulnerable Web Application"
 
